@@ -3,7 +3,7 @@
 //  LastTrain
 //
 //  Created by Hikaru Takemura on 2015/04/29.
-//  Copyright (c) 2015年 Hikaru Takemura. All rights reserved.
+//  Copyright (c) 2015 Hikaru Takemura. All rights reserved.
 //
 
 import UIKit
